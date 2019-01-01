@@ -1,0 +1,1 @@
+# Face-detection-and-recognition-by-using-opencv-and-dlib_for_Adhoc_network
